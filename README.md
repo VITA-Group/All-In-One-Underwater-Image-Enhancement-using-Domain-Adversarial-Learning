@@ -12,10 +12,12 @@ Some parts of code adopted from https://github.com/milesial/Pytorch-UNet and htt
 
 If you find this work helpful and plan to use this in your project, please cite us by using the following bibtex
 
-```@InProceedings{Uplavikar_2019_CVPR_Workshops,
+```
+@InProceedings{Uplavikar_2019_CVPR_Workshops,
 author = {M Uplavikar, Pritish and Wu, Zhenyu and Wang, Zhangyang},
 title = {All-in-One Underwater Image Enhancement Using Domain-Adversarial Learning},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
 month = {June},
 year = {2019}
-}```
+}
+```
